@@ -1,4 +1,4 @@
-# ZaraSalesAnalysis
+# Zara Sales Analysis With Excel
 ## 1. Deskripsi Dataset
 Dataset ini berisi data penjualan produk Zara dan mencakup berbagai informasi terkait produk yang dijual, promosi, kategori produk, dan detail penjualan lainnya. Berikut adalah penjelasan untuk setiap kolom dalam dataset:
 

@@ -49,7 +49,23 @@ Dataset ini berisi data penjualan produk Zara dan mencakup berbagai informasi te
 
 - Section: Section or category where the product is sold in the store (e.g., women's clothing, men's clothing, children's clothing, etc.).
 
-## 2. pertanyaan/permasalahan
+## 2.Data Cleaning
+Dataset penjualan Zara telah melalui proses pembersihan data untuk memastikan keakuratan dan konsistensi analisis. Berikut adalah langkah-langkah yang telah dilakukan:
+
+- Menghapus Data Duplikat:
+        Data duplikat diidentifikasi dan dihapus untuk memastikan bahwa setiap entri unik. Ini membantu mencegah bias dalam analisis penjualan.
+  
+- Mengubah Format Data:
+        Kolom tanggal diformat sebagai tanggal, kolom numerik diformat sebagai angka atau mata uang, dan kolom kategori diformat sebagai teks. Perubahan ini dilakukan untuk memastikan bahwa setiap kolom memiliki format data yang tepat.
+  
+- Validasi Data:
+        Aturan validasi data diterapkan untuk memastikan bahwa data yang dimasukkan di masa depan sesuai dengan kriteria yang ditetapkan. Ini termasuk validasi format angka, tanggal, dan teks untuk mencegah kesalahan input.
+
+Hasil Pembersihan Data
+
+Proses pembersihan data ini menghasilkan dataset yang lebih bersih dan siap untuk analisis lebih lanjut. Langkah-langkah ini memastikan bahwa data penjualan Zara akurat, konsisten, dan dapat diandalkan untuk mendukung pengambilan keputusan bisnis yang lebih baik.
+
+## 3. pertanyaan/permasalahan
 1. Apakah produk yang dipromosikan oleh Zara memiliki tingkat penjualan yang lebih tinggi?
 2. Jenis pakaian apa yang paling banyak dibeli oleh pelanggan Zara?
 3. Apakah konsumen Zara lebih cenderung pada produk untuk pria atau wanita?
@@ -58,7 +74,7 @@ Dataset ini berisi data penjualan produk Zara dan mencakup berbagai informasi te
 6. Bagaimana penjualan produk musiman dibandingkan dengan produk non-musiman di Zara?
 
    
-## 3. Insight dan Kesimpulan
+## 4. Insight dan Kesimpulan
 
 **Analisis Penjualan Berdasarkan Promosi**
 
